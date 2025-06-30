@@ -1,16 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.abadierperformancetask2;
-
 import java.util.Scanner;
 
-/**
- *
- * @author ron.g.abadier
- */
-public class AbadierPerformanceTask2 {
+public class CowsAndBulls {
 
     public static void main(String[] args) {
         String playerOneMove, playerTwoMove, rock = "r", paper = "p", scissors = "s";
